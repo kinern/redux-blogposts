@@ -1,3 +1,19 @@
+# Redux Blog Posts App 
+### Part of Udemy Modern React with Redux [2020 Update] Course
+Viewable on GitPages: [https://kinern.github.io/redux-blogposts](https://kinern.github.io/redux-blogposts)  
+
+---
+
+### Uses the following:  
+* React
+* Redux
+* Redux-Thunk
+* Semantic UI (for default styles)
+* JSONPlaceholder (for blog post data)
+* Lodash
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
