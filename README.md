@@ -9,6 +9,7 @@ Viewable on GitPages: [https://kinern.github.io/redux-blogposts](https://kinern.
 * Redux
 * Redux-Thunk
 * Semantic UI (for default styles)
+* Axios for API Requests
 * JSONPlaceholder (for blog post data)
 * Lodash
 
